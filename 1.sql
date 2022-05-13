@@ -1,1 +1,0 @@
-CREATE TABLE world (id int(3), country varchar(20), population int(15), rating int(3), economy int(3), territory int(10));
