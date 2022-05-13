@@ -1,0 +1,1 @@
+CREATE DATABASE all_world;
